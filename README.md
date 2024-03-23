@@ -7,10 +7,10 @@ Leave a ⭐
 
 How to Run This Script
 Like by ur Timeline:
-Visit Instagram from your PC browser.
-Go to your explore page: Explore Page
-Right-click and select inspect.
-Go to the Console tab.
-Copy the code from the index.js file and paste it into the Console tab, then press Enter.
+1. Visit Instagram from your PC browser.
+2. Go to your explore page: Explore Page
+3. Right-click and select inspect.
+. Go to the Console tab.
+5. Copy the code from the index.js file and paste it into the Console tab, then press Enter.
 
-Disclaimer: This code is for educational purposes only. It does not collect any of your personal data and is safe to use.
+- Disclaimer: This code is for educational purposes only. It does not collect any of your personal data and is safe to use.
