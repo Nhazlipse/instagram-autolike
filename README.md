@@ -6,7 +6,7 @@ Leave a ⭐
 🟢🟢 AUTOLIKE 🟢🟢
 
 How to Run This Script
-Like & Comment Posts by Specific Hashtag:
+Like by ur Timeline:
 Visit Instagram from your PC browser.
 Go to your explore page: Explore Page
 Right-click and select inspect.
