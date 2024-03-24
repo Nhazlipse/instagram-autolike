@@ -7,7 +7,7 @@ Leave a ⭐
 
 How to Run This Script
 Like by ur Timeline:
-1. Visit Instagram from your PC browser.
+1. Visit Instagram from your PC browser. if cant use Chrome and then try use Edge
 2. Go to your explore page: Explore Page
 3. Right-click and select inspect.
 . Go to the Console tab.
